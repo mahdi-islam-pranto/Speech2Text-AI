@@ -8,7 +8,6 @@ from google.cloud import speech_v1p1beta1 as speech
 client = speech.SpeechClient() 
 
 
-
     # Set the audio file path or Cloud Storage URI
 
     # Get path to Downloads folder
